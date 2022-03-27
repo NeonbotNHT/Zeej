@@ -1,3 +1,3 @@
-# Frazix Website V2 (beta)
+# Zeey Website
 
-Demo - https://frazix.is-a.dev/Frazix2.0/
+© Zeey - https://neonbotnht.github.io/Zeey/
