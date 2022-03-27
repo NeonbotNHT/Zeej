@@ -1,3 +1,3 @@
 # Zeey Website
 
-© Zeey - https://neonbotnht.github.io/Zeey/
+© Zeey - https://www.zeey.tk/
